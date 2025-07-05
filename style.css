@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(135deg, #006400, #8B0000); /* green to dark red */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+#countdown {
+  font-size: 1.5rem;
+}
+
+.contact-info p {
+  margin: 0.3rem 0;
+}
+
+footer {
+  margin-top: 2rem;
+}
